@@ -1,1 +1,1 @@
-I have created a simple calculator using HTML, CSS, and JavaScript. This project features an interactive and user-friendly design for performing calculations. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator has a user-friendly interface and is responsive for mobile devices
+
