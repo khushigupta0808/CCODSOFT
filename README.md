@@ -1,1 +1,1 @@
-
+I'm a beginner web developer with experience in HTML5, CSS3, and JavaScript. I'm learning React.js and Node.js to create interactive user interfaces. I enjoy making responsive mobile-friendly layouts. I use Git and GitHub for version control and have launched small projects on Netlify. I'm always looking to improve my skills and build real-world web applications
