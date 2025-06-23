@@ -189,8 +189,8 @@ header .logo{
         top: 13%;
         right: 20px;
 }
-    .slider .list .item .content p:nth-child(3){
-        font-size: 12px;
+    .slider .list .item .content p{
+        display: none;
     }
 
     .slider .list .item img{
